@@ -1,3 +1,1 @@
-nattertool/check:latest: registry.cn-beijing.aliyuncs.com/io01/natter_check
-nattertool/natter:latest: registry.cn-beijing.aliyuncs.com/io01/natter
-tailscale/tailscale:latest: registry.cn-beijing.aliyuncs.com/io01/tailscale
+grafana/grafana:9.5.19-ubuntu: registry.cn-beijing.aliyuncs.com/hgimages/grafana:9.5.19-ubuntu
