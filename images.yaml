@@ -1,1 +1,1 @@
-grafana/grafana:9.5.19-ubuntu: registry.cn-beijing.aliyuncs.com/hgimages/grafana:9.5.19-ubuntu
+telegraf:1.24.3: registry.cn-beijing.aliyuncs.com/hgimages/telegraf:1.24.3
