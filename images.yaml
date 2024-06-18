@@ -1,1 +1,1 @@
-grafana/grafana:9.5.19-ubuntu: registry.cn-beijing.aliyuncs.com/hgimages/grafana:9.5.19-ubuntu
+victoriametrics/victoria-metrics:v1.57.1: registry.cn-beijing.aliyuncs.com/hgimages/victoria-metrics:v1.57.1
