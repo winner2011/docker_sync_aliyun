@@ -1,1 +1,3 @@
-victoriametrics/victoria-metrics:v1.57.1: registry.cn-beijing.aliyuncs.com/hgimages/victoria-metrics:v1.57.1
+prom/prometheus:v2.11.1: registry.cn-beijing.aliyuncs.com/hgimages/prometheus:v2.11.1
+consul:1.5.3: registry.cn-beijing.aliyuncs.com/hgimages/consul:1.5.3
+grafana/grafana:6.3.2: registry.cn-beijing.aliyuncs.com/hgimages/grafana:6.3.2
