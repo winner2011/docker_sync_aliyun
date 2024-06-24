@@ -1,1 +1,3 @@
-prom/alertmanager:v0.18.0: registry.cn-beijing.aliyuncs.com/hgimages/alertmanager:v0.18.0
+ubuntu:24.04: registry.cn-beijing.aliyuncs.com/hgimages/ubuntu:24.04
+ubuntu:22.04: registry.cn-beijing.aliyuncs.com/hgimages/ubuntu:22.04
+ubuntu:20.04: registry.cn-beijing.aliyuncs.com/hgimages/ubuntu:20.04
