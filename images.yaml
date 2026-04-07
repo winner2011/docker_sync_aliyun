@@ -1,2 +1,2 @@
-nacos/nacos-server:v2.5.3: registry.cn-beijing.aliyuncs.com/hgimages/nacos-server:v2.5.3
+tomcat:9.0.117-jdk11: registry.cn-beijing.aliyuncs.com/hgimages/tomcat:9.0.117-jdk11
 
