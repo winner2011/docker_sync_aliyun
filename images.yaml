@@ -1,4 +1,4 @@
 nacos/nacos-server:v2.4.1: registry.cn-beijing.aliyuncs.com/hgimages/nacos-server:v2.4.1
-tensorzero/postgres:latest: registry.cn-beijing.aliyuncs.com/tensorzero/postgres:latest
-tensorzero/ui:latest: registry.cn-beijing.aliyuncs.com/tensorzero/ui:latest
-tensorzero/gateway:latest: registry.cn-beijing.aliyuncs.com/tensorzero/gateway:latest
+tensorzero/postgres: registry.cn-beijing.aliyuncs.com/tensorzero/postgres
+tensorzero/ui: registry.cn-beijing.aliyuncs.com/tensorzero/ui
+tensorzero/gateway: registry.cn-beijing.aliyuncs.com/tensorzero/gateway
