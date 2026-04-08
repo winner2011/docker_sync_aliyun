@@ -1,5 +1,5 @@
-tensorzero/postgres:16: registry.cn-hangzhou.aliyuncs.com/hgimages/tensorzero/postgres:16
-tensorzero/ui:2026.4.0: registry.cn-hangzhou.aliyuncs.com/hgimages/tensorzero/ui:2026.4.0
+tensorzero/postgres:16: registry.cn-hangzhou.aliyuncs.com/hgimages/tensorzero-postgres:16
+tensorzero/ui:2026.4.0: registry.cn-hangzhou.aliyuncs.com/hgimages/tensorzero-ui:2026.4.0
 tensorzero/gateway:2026.4.0: registry.cn-hangzhou.aliyuncs.com/hgimages/tensorzero-gateway:2026.4.0
 
 
